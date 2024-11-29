@@ -1,4 +1,4 @@
-# [Sponsorname] Audit
+# Unruggable Audit
 
 Audit findings are submitted and stored in Code4rena.
 
